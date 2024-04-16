@@ -112,6 +112,7 @@ Container | Channel | Image
 [bazarr](https://github.com/jalim/containers/pkgs/container/bazarr) | stable | ghcr.io/jalim/bazarr
 [home-assistant](https://github.com/jalim/containers/pkgs/container/home-assistant) | stable | ghcr.io/jalim/home-assistant
 [jbops](https://github.com/jalim/containers/pkgs/container/jbops) | stable | ghcr.io/jalim/jbops
+[jellyfin](https://github.com/jalim/containers/pkgs/container/jellyfin) | stable | ghcr.io/jalim/jellyfin
 [lidarr](https://github.com/jalim/containers/pkgs/container/lidarr) | master | ghcr.io/jalim/lidarr
 [lidarr-develop](https://github.com/jalim/containers/pkgs/container/lidarr-develop) | develop | ghcr.io/jalim/lidarr-develop
 [lidarr-nightly](https://github.com/jalim/containers/pkgs/container/lidarr-nightly) | nightly | ghcr.io/jalim/lidarr-nightly
