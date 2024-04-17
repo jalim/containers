@@ -129,7 +129,6 @@ Container | Channel | Image
 [radarr-develop](https://github.com/jalim/containers/pkgs/container/radarr-develop) | develop | ghcr.io/jalim/radarr-develop
 [radarr-nightly](https://github.com/jalim/containers/pkgs/container/radarr-nightly) | nightly | ghcr.io/jalim/radarr-nightly
 [readarr-develop](https://github.com/jalim/containers/pkgs/container/readarr-develop) | develop | ghcr.io/jalim/readarr-develop
-[readarr-nightly](https://github.com/jalim/containers/pkgs/container/readarr-nightly) | nightly | ghcr.io/jalim/readarr-nightly
 [sabnzbd](https://github.com/jalim/containers/pkgs/container/sabnzbd) | stable | ghcr.io/jalim/sabnzbd
 [sonarr](https://github.com/jalim/containers/pkgs/container/sonarr) | main | ghcr.io/jalim/sonarr
 [sonarr-develop](https://github.com/jalim/containers/pkgs/container/sonarr-develop) | develop | ghcr.io/jalim/sonarr-develop
